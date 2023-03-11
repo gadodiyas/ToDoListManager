@@ -1,0 +1,31 @@
+
+U
+%src/com/practice/model/Statistic.java,d\b\db54b7fb939c6dfcf718b8814b91d97b2c374ce9
+Q
+!src/com/practice/model/Order.java,9\0\90945a993e0c84b75106404d6107d0a658b0c7cb
+\
+,src/com/practice/controller/ToDoManager.java,c\8\c8d4630e83adca83b816fdbe94900501f6380b4a
+P
+ src/com/practice/model/Task.java,9\6\968d67f3093e0cbb85deeedb6ed2c331385f0b03
+R
+"src/com/practice/model/Status.java,2\d\2dddc632c5908b92c826eabecce501134c7b9c33
+Q
+!src/com/practice/model/Field.java,c\1\c1ce0ab0bd82bafefb9097efbfe53f6072b0e0fe
+Q
+!src/com/practice/model/ToDos.java,8\2\8243b2cb67adae6bb4c85d47adc3c0bd5a2c5a07
+O
+src/com/practice/model/Log.java,e\1\e1b868119056991cb78b59f8dc17dfed2392d522
+`
+0src/com/practice/service/LessThanComparator.java,a\0\a0b8a73d0303cb239b5d4dab9a33ad91a9d64319
+c
+3src/com/practice/service/GreaterThanComparator.java,5\8\5895e454f70ce0f1f5f207a9489d668eebeaec56
+R
+"src/com/practice/model/Action.java,b\8\b8c6f7877c31aaf054c6c3d869c6d0f1b5766b59
+T
+$src/com/practice/model/Operator.java,5\c\5c8d503c60e83e60f2e2bb326a9b62de7273ca7c
+a
+1src/com/practice/service/ComparatorInterface.java,e\4\e469dc62760b2e710ade8675f4add08c11fca8ea
+_
+/src/com/practice/service/EqualToComparator.java,1\1\1106f35ee83e9cfb100289de4bb0260b65cb1d4a
+J
+src/com/practice/Main.java,c\a\ca732222c9445dd54858b9d11b8e575cf4d1356c
